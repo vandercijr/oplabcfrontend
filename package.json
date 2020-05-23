@@ -1,5 +1,6 @@
 {
-  "name": "front",
+  "homepage": "http://vandercijr.github.io/oplabcfrontend",
+  "name": "oplabcfrontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +13,7 @@
     "sass": "^1.26.5"
   },
   "scripts": {
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
