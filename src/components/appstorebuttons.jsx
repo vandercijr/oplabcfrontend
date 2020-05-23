@@ -9,13 +9,13 @@ class AppStoreButtons extends React.Component {
         buttons:[
           {
               id: 0,
-              icon: '/assets/images/appstore.png',
+              icon: 'assets/images/appstore.png',
               action: 'https://www.apple.com/br/ios/app-store/',
               type: 'icon'
           },
           {
               id: 1,
-              icon: '/assets/images/playstore.png',
+              icon: 'assets/images/playstore.png',
               action: 'https://play.google.com/store',
               type: 'icon'
           }
