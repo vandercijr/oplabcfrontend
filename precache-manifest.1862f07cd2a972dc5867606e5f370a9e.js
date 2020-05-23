@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5532fdcf9c0cd877e96e62aa935dfa27",
+    "revision": "9a44ac4980bfb28926ed6189fbd4f27b",
     "url": "https://vandercijr.github.io/oplabcfrontend/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://vandercijr.github.io/oplabcfrontend/static/js/2.0220c7cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42b32f16c5d2c53f9076",
-    "url": "https://vandercijr.github.io/oplabcfrontend/static/js/main.177c811d.chunk.js"
+    "revision": "5d510429a89d5e9dc3be",
+    "url": "https://vandercijr.github.io/oplabcfrontend/static/js/main.efe89eaf.chunk.js"
   },
   {
     "revision": "d862427d523df827a80c",

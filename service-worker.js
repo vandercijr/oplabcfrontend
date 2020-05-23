@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://vandercijr.github.io/oplabcfrontend/precache-manifest.b81134cd13f98631204803b33d50b4ce.js"
+  "https://vandercijr.github.io/oplabcfrontend/precache-manifest.1862f07cd2a972dc5867606e5f370a9e.js"
 );
 
 self.addEventListener('message', (event) => {
