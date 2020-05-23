@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/oplabcfrontend/static/js/main.86b06934.chunk.js",
-    "main.js.map": "/oplabcfrontend/static/js/main.86b06934.chunk.js.map",
+    "main.js": "/oplabcfrontend/static/js/main.1b539537.chunk.js",
+    "main.js.map": "/oplabcfrontend/static/js/main.1b539537.chunk.js.map",
     "runtime-main.js": "/oplabcfrontend/static/js/runtime-main.b9de9eab.js",
     "runtime-main.js.map": "/oplabcfrontend/static/js/runtime-main.b9de9eab.js.map",
     "static/js/2.c50243e5.chunk.js": "/oplabcfrontend/static/js/2.c50243e5.chunk.js",
     "static/js/2.c50243e5.chunk.js.map": "/oplabcfrontend/static/js/2.c50243e5.chunk.js.map",
     "index.html": "/oplabcfrontend/index.html",
-    "precache-manifest.98d32186020101e23866af321668b9cf.js": "/oplabcfrontend/precache-manifest.98d32186020101e23866af321668b9cf.js",
+    "precache-manifest.efa145c67620be5b1c452ca08a92d48f.js": "/oplabcfrontend/precache-manifest.efa145c67620be5b1c452ca08a92d48f.js",
     "service-worker.js": "/oplabcfrontend/service-worker.js",
     "static/js/2.c50243e5.chunk.js.LICENSE.txt": "/oplabcfrontend/static/js/2.c50243e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b9de9eab.js",
     "static/js/2.c50243e5.chunk.js",
-    "static/js/main.86b06934.chunk.js"
+    "static/js/main.1b539537.chunk.js"
   ]
 }
