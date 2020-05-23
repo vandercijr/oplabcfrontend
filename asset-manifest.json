@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "https://vandercijr.github.io/oplabcfrontend/static/js/main.b3705e21.chunk.js",
-    "main.js.map": "https://vandercijr.github.io/oplabcfrontend/static/js/main.b3705e21.chunk.js.map",
+    "main.js": "https://vandercijr.github.io/oplabcfrontend/static/js/main.177c811d.chunk.js",
+    "main.js.map": "https://vandercijr.github.io/oplabcfrontend/static/js/main.177c811d.chunk.js.map",
     "runtime-main.js": "https://vandercijr.github.io/oplabcfrontend/static/js/runtime-main.f99702e0.js",
     "runtime-main.js.map": "https://vandercijr.github.io/oplabcfrontend/static/js/runtime-main.f99702e0.js.map",
-    "static/js/2.28e09592.chunk.js": "https://vandercijr.github.io/oplabcfrontend/static/js/2.28e09592.chunk.js",
-    "static/js/2.28e09592.chunk.js.map": "https://vandercijr.github.io/oplabcfrontend/static/js/2.28e09592.chunk.js.map",
+    "static/js/2.0220c7cd.chunk.js": "https://vandercijr.github.io/oplabcfrontend/static/js/2.0220c7cd.chunk.js",
+    "static/js/2.0220c7cd.chunk.js.map": "https://vandercijr.github.io/oplabcfrontend/static/js/2.0220c7cd.chunk.js.map",
     "index.html": "https://vandercijr.github.io/oplabcfrontend/index.html",
-    "precache-manifest.9f0a2398aba745ce980c4235422f1f5c.js": "https://vandercijr.github.io/oplabcfrontend/precache-manifest.9f0a2398aba745ce980c4235422f1f5c.js",
+    "precache-manifest.b81134cd13f98631204803b33d50b4ce.js": "https://vandercijr.github.io/oplabcfrontend/precache-manifest.b81134cd13f98631204803b33d50b4ce.js",
     "service-worker.js": "https://vandercijr.github.io/oplabcfrontend/service-worker.js",
-    "static/js/2.28e09592.chunk.js.LICENSE.txt": "https://vandercijr.github.io/oplabcfrontend/static/js/2.28e09592.chunk.js.LICENSE.txt"
+    "static/js/2.0220c7cd.chunk.js.LICENSE.txt": "https://vandercijr.github.io/oplabcfrontend/static/js/2.0220c7cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f99702e0.js",
-    "static/js/2.28e09592.chunk.js",
-    "static/js/main.b3705e21.chunk.js"
+    "static/js/2.0220c7cd.chunk.js",
+    "static/js/main.177c811d.chunk.js"
   ]
 }
