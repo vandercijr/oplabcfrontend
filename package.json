@@ -1,5 +1,5 @@
 {
-  "homepage": "http://vandercijr.github.io/oplabcfrontend",
+  "homepage": "https://vandercijr.github.io/oplabcfrontend",
   "name": "oplabcfrontend",
   "version": "0.1.0",
   "private": true,
@@ -20,11 +20,19 @@
     "react-scripts": "3.4.1",
     "sass": "^1.26.5"
   },
+  "babel": {
+    "presets": [
+      "@babel/plugin-proposal-class-properties",
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ]
+  },
   "scripts": {
     "predeploy": "react-scripts build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "build-localhost": "PUBLIC_URL=/ react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
