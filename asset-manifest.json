@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/oplabcfrontend/static/js/main.f36ec77d.chunk.js",
+    "main.js.map": "/oplabcfrontend/static/js/main.f36ec77d.chunk.js.map",
+    "runtime-main.js": "/oplabcfrontend/static/js/runtime-main.b9de9eab.js",
+    "runtime-main.js.map": "/oplabcfrontend/static/js/runtime-main.b9de9eab.js.map",
+    "static/js/2.0220c7cd.chunk.js": "/oplabcfrontend/static/js/2.0220c7cd.chunk.js",
+    "static/js/2.0220c7cd.chunk.js.map": "/oplabcfrontend/static/js/2.0220c7cd.chunk.js.map",
+    "index.html": "/oplabcfrontend/index.html",
+    "precache-manifest.8db68a85b833e11cc2e246f019bf27ce.js": "/oplabcfrontend/precache-manifest.8db68a85b833e11cc2e246f019bf27ce.js",
+    "service-worker.js": "/oplabcfrontend/service-worker.js",
+    "static/js/2.0220c7cd.chunk.js.LICENSE.txt": "/oplabcfrontend/static/js/2.0220c7cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9de9eab.js",
+    "static/js/2.0220c7cd.chunk.js",
+    "static/js/main.f36ec77d.chunk.js"
+  ]
+}
