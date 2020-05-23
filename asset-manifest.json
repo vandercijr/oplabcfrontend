@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/oplabcfrontend/static/js/main.13888092.chunk.js",
-    "main.js.map": "/oplabcfrontend/static/js/main.13888092.chunk.js.map",
-    "runtime-main.js": "/oplabcfrontend/static/js/runtime-main.b9de9eab.js",
-    "runtime-main.js.map": "/oplabcfrontend/static/js/runtime-main.b9de9eab.js.map",
-    "static/js/2.0220c7cd.chunk.js": "/oplabcfrontend/static/js/2.0220c7cd.chunk.js",
-    "static/js/2.0220c7cd.chunk.js.map": "/oplabcfrontend/static/js/2.0220c7cd.chunk.js.map",
-    "index.html": "/oplabcfrontend/index.html",
-    "precache-manifest.99a9d9cba6ed14ae2796fe8e7b3f0204.js": "/oplabcfrontend/precache-manifest.99a9d9cba6ed14ae2796fe8e7b3f0204.js",
-    "service-worker.js": "/oplabcfrontend/service-worker.js",
-    "static/js/2.0220c7cd.chunk.js.LICENSE.txt": "/oplabcfrontend/static/js/2.0220c7cd.chunk.js.LICENSE.txt"
+    "main.js": "http://vandercijr.github.io/oplabcfrontend/static/js/main.b3705e21.chunk.js",
+    "main.js.map": "http://vandercijr.github.io/oplabcfrontend/static/js/main.b3705e21.chunk.js.map",
+    "runtime-main.js": "http://vandercijr.github.io/oplabcfrontend/static/js/runtime-main.54db2f0c.js",
+    "runtime-main.js.map": "http://vandercijr.github.io/oplabcfrontend/static/js/runtime-main.54db2f0c.js.map",
+    "static/js/2.28e09592.chunk.js": "http://vandercijr.github.io/oplabcfrontend/static/js/2.28e09592.chunk.js",
+    "static/js/2.28e09592.chunk.js.map": "http://vandercijr.github.io/oplabcfrontend/static/js/2.28e09592.chunk.js.map",
+    "index.html": "http://vandercijr.github.io/oplabcfrontend/index.html",
+    "precache-manifest.0b5399eef28fceee21e8de40d7ae8c19.js": "http://vandercijr.github.io/oplabcfrontend/precache-manifest.0b5399eef28fceee21e8de40d7ae8c19.js",
+    "service-worker.js": "http://vandercijr.github.io/oplabcfrontend/service-worker.js",
+    "static/js/2.28e09592.chunk.js.LICENSE.txt": "http://vandercijr.github.io/oplabcfrontend/static/js/2.28e09592.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9de9eab.js",
-    "static/js/2.0220c7cd.chunk.js",
-    "static/js/main.13888092.chunk.js"
+    "static/js/runtime-main.54db2f0c.js",
+    "static/js/2.28e09592.chunk.js",
+    "static/js/main.b3705e21.chunk.js"
   ]
 }
